@@ -10,7 +10,7 @@ btn.addEventListener("click", function(event) {
     let em = document.getElementById("email").value;
     
     alert("First Name: " + fn + 
-          "\nLast Name: " + ln + 
-          "\nPhone Number: " + pn + 
-          "\nEmail ID: " + em);
+          "Last Name: " + ln + 
+          "Phone Number: " + pn + 
+          "Email ID: " + em);
 });
